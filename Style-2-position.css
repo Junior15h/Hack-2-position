@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+}
+
+.conteiner {
+    width: 100%;
+    height: 100vh;
+}
+
+div header{
+    width: 100%;
+    height: 10vh;
+    background-color:#93B5C9;
+}
+
+div main {
+    width: 100%;
+    height: 80vh;
+   
+}
+
+main section{ 
+    width:100%;
+    height: 19vh;
+    background-color: #AB2849;
+    margin-bottom: 1vh;
+}
+
+main aside{
+    width: 70%;
+    height: 60vh;
+}
+
+aside div{
+    width: 100%;
+    height: 14vh;
+    background-color: #AB2849;
+    margin-bottom: 1vh;
+}
+
+footer {
+    position: absolute;
+    width: 92%;
+    height: 9.5vh;
+    background-color: #AB2849;
+    left: 4%;
+
+}
+
